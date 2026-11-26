@@ -1,0 +1,11 @@
+Character context additions
+
+Generated file: zh-character-context.csv
+Reproduce from the repository root with: python scripts/build-character-context.py
+
+Input data and licenses:
+- .cache/zh/story-character-corrected.csv, StoryAura Danbooru-Dataset-csv, MIT; see .cache/zh/STORYAURA-LICENSE.txt. Used only its exact character_tag -> copyright binding.
+- .cache/zh/ame-copyright.csv, amenorira's Chinese Booru tag translation dataset; see resources/amenorira-LICENSE.txt. Used exact copyright tag -> Chinese label matches.
+- resources/danbooru.csv and resources/gelbooru.csv are local site tag lists used to require exact key and type 4 matches; their provenance/licenses are documented in resources/SOURCES.md.
+
+Rows retain the original character tag and append neutral context as “关联标签：…”. This deliberately does not call the associated copyright tag a work or assert that the tag is a fictional character; this covers software, teams, platforms, and other uncertain categories. No character name is inferred or phonetically translated. The generator does not read generated zh dictionaries, so it emits the full candidate set on every run; merge only where the target site's translation is missing or still identical to its raw key. Spaces and underscores are normalized for StoryAura exact-tag matching, and ambiguous normalized keys are dropped. This is a derived dataset and follows the license obligations of its inputs; include the referenced license notices when redistributing.

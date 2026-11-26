@@ -1,0 +1,7 @@
+node_modules/
+dist/
+release/
+/词序-Prompt-Studio-*.exe
+.cache/
+test-output/
+*.log

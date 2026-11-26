@@ -1,0 +1,298 @@
+﻿site,name,type,translation,kind,source
+danbooru,menacing_(jojo),0,JOJO 风格的“ゴゴゴ”压迫感效果字/气场标记,说明,《JOJO的奇妙冒险》作品限定；按标签常见用法说明效果类型
+danbooru,hello_happy_world!_(bang_dream!),0,"Hello, Happy World!（《BanG Dream!》乐团）",说明,BanG Dream! 官方乐团介绍
+danbooru,poppin'party_(bang_dream!),0,Poppin'Party（《BanG Dream!》乐团）,说明,BanG Dream! 官方乐团介绍
+danbooru,azuna_(love_live!),0,A・ZU・NA（《Love Live! 虹咲学园学园偶像同好会》组合）,说明,Love Live! 官方角色/组合资料
+danbooru,raise_a_suilen_(bang_dream!),0,RAISE A SUILEN（《BanG Dream!》乐团）,说明,BanG Dream! 官方乐团介绍
+danbooru,br55,0,BR55（《光环》系列中的虚构步枪）,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,h&k_vp9,0,Heckler & Koch VP9 半自动手枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,magicaldraw,0,MagicalDraw 在线绘画/协作绘图服务,说明,MagicalDraw 官方服务介绍
+danbooru,nonstop_story,0,NONSTOP STORY（hololive 演唱会/活动名）,说明,hololive 官方演出资料
+danbooru,ruri&to_(love_live!),0,Ruri & To（《Love Live!》系列组合名）,说明,Love Live! 官方组合/活动资料
+danbooru,xbox_series_x,0,Xbox Series X 游戏主机,说明,Xbox 官方 Xbox Series X 产品页
+danbooru,h&k_sl8,0,Heckler & Koch SL8 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,bb-28_(cosplay),0,BB-28（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 bb-28；标签后缀 _(cosplay) 表示角色扮装
+danbooru,decoration_(idolmaster),0,Decoration（《偶像大师》相关歌曲/组合标签）,说明,《偶像大师》官方作品目录；原名保留并说明作品系列
+danbooru,zzz_wipeout,0,ZZZ Wipeout（《绝区零》相关作品标签）,说明,《绝区零》官方活动/音乐资料；标题原名保留
+danbooru,fire_bomber,0,Fire Bomber（《超时空要塞7》虚构乐团）,说明,《超时空要塞7》官方作品资料
+danbooru,ramram_(arms),0,Ramram（《ARMS》游戏角色）,说明,Nintendo 官方《ARMS》角色资料
+danbooru,kronfaumei_(hololive),0,Kronii、Fauna、Mumei（hololive 组合标签）,说明,hololive 官方成员/组合资料；标签合成名拆解
+danbooru,duesenberg_starplayer,0,Duesenberg Starplayer 电吉他系列,说明,Duesenberg 官方 Starplayer 产品资料
+danbooru,lupinus_virtual_games,0,Lupinus Virtual Games（虚拟主播团体）,说明,Lupinus Virtual Games 官方团体资料
+danbooru,uaz-452,0,UAZ-452 轻型多用途车,说明,UAZ 官方车型历史资料：452
+danbooru,ipod_mini,0,Apple iPod mini 数字音乐播放器,说明,Apple 官方 iPod 产品档案：iPod mini
+danbooru,magpul_fmg-9,0,Magpul FMG-9 折叠冲锋枪原型,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,wonderhoy,0,Wonderhoy（《世界计划 缤纷舞台！》用语）,说明,《世界计划》官方角色/作品用语
+danbooru,azalea_(love_live!),0,AZALEA（《Love Live! Sunshine!!》组合）,说明,Love Live! 官方角色/组合资料
+danbooru,h&k_p7,0,Heckler & Koch P7 半自动手枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,geforce_rtx_5090,0,NVIDIA GeForce RTX 5090 显卡,说明,NVIDIA 官方 GeForce RTX 5090 产品页
+danbooru,imac_g3,0,苹果 iMac G3 个人电脑,说明,Apple 官方 iMac 产品档案：iMac G3
+danbooru,tem_ray's_circuit,0,Tem Ray 电路（《机动战士高达》虚构装置）,说明,《机动战士高达》官方设定资料
+danbooru,iwi_x95,0,IWI X95 突击步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,h&k_hk433,0,Heckler & Koch HK433 突击步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,capcom_cup,0,Capcom Cup 格斗游戏电竞赛事,说明,Capcom 官方 Capcom Cup 赛事资料
+danbooru,u-treasure,0,U-TREASURE 日本珠宝品牌,说明,U-TREASURE 官方品牌介绍
+danbooru,vippaloid,0,VIPPALOID（VOCALOID 同人角色/音源系列）,说明,VOCALOID 社群名词；原名保留并说明为同人系列
+danbooru,kickstarter,0,Kickstarter 众筹平台,说明,Kickstarter 官方平台介绍
+danbooru,gewehr_43,0,Gewehr 43 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,geforce_rtx_4090,0,NVIDIA GeForce RTX 4090 显卡,说明,NVIDIA 官方 GeForce RTX 4090 产品页
+danbooru,windows_media_player,0,Windows Media Player 媒体播放器,说明,Microsoft 官方产品资料
+danbooru,visa,0,Visa 支付网络与金融服务品牌,说明,Visa 官方公司介绍
+danbooru,h-a-j-i-m-a-r-i-u-t-a-!!,0,H-A-J-I-M-A-R-I-U-T-A-!!（《偶像大师》歌曲名）,说明,《偶像大师》官方音乐作品目录
+danbooru,mk_12_spr,0,Mk 12 特种用途步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,suntempo,0,SunTempo（《IDOL FANTASY》组合）,说明,《IDOL FANTASY》官方角色资料
+danbooru,zundamon_outfit,0,ずんだもん服装/装扮标签,说明,ずんだもん官方角色资料；限定词 outfit 指服装
+danbooru,qu4rtz_(love_live!),0,QU4RTZ（《Love Live! 虹咲学园学园偶像同好会》组合）,说明,Love Live! 官方角色/组合资料
+danbooru,girls_dead_monster,0,Girls Dead Monster（《Angel Beats!》虚构乐团）,说明,《Angel Beats!》官方作品资料
+danbooru,1nm8_(paradox_live),0,1Nm8（《Paradox Live》组合）,说明,Paradox Live 官方组合资料
+danbooru,catchu!_(love_live!),0,CatChu!（《Love Live! Superstar!!》组合）,说明,Love Live! 官方角色/组合资料
+danbooru,mmorpg,0,大型多人在线角色扮演游戏（MMORPG）,说明,通用游戏类型缩写释义
+danbooru,sloppy_sisters,0,Sloppy Sisters（组合/作品专名，原名保留）,说明,Danbooru 标签原名；缺少可靠对应资料，保留专名及类别
+danbooru,c-47,0,C-47 Skytrain 运输机,说明,美国空军国家博物馆 C-47 资料
+danbooru,dotsuitare_hompo,0,どついたれ本舗（《催眠麦克风》组合）,说明,《催眠麦克风》官方角色/组合资料
+danbooru,subachocoluna_(hololive),0,SubaChocoLuna（hololive 成员组合标签）,说明,hololive 官方成员资料；标签由成员名组合
+danbooru,ato_de_wakaru_koto,0,あとでわかること（歌曲/作品名，意为“之后便会明白”）,说明,日文原名保留并给出直译与作品标题属性
+danbooru,roland_ax-synth,0,Roland AX-Synth 肩背式合成器,说明,Roland 官方 AX-Synth 产品资料
+danbooru,korg_triton,0,Korg TRITON 合成器工作站,说明,Korg 官方 TRITON 产品资料
+danbooru,h&k_mg4,0,Heckler & Koch MG4 轻机枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,minoritea_(love_live!),0,Minoritea（《Love Live!》系列组合名）,说明,Love Live! 官方角色/组合资料
+danbooru,umisea,0,UMISEA（hololive 音乐组合）,说明,hololive 官方音乐项目资料
+danbooru,usas-12,0,USAS-12 自动霰弹枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,xbox_one,0,Xbox One 游戏主机,说明,Xbox 官方 Xbox One 产品资料
+danbooru,fams_(group),0,FAMS（团体名）,说明,标签括注明确标示 group；专名保留原文
+danbooru,joy-con_2,0,Nintendo Switch 2 Joy-Con 2 控制器,说明,Nintendo 官方 Joy-Con 2 产品资料
+danbooru,me_262,0,Messerschmitt Me 262 喷气式战斗机,说明,德国空军博物馆 Me 262 资料
+danbooru,grok_(xai),0,Grok（xAI 人工智能聊天机器人）,说明,xAI 官方 Grok 产品资料
+danbooru,muzui,0,muzui（日语“难/棘手”的口语表达）,说明,日语常用词义；保留原罗马字标签
+danbooru,fate/accel_zero_order,0,《Fate/Accel Zero Order》,说明,Fate/Grand Order 官方活动标题
+danbooru,playstation_move,0,PlayStation Move 动作控制器,说明,Sony Interactive Entertainment 官方产品资料：PlayStation Move motion controller
+danbooru,splash_free,0,SPLASH FREE（《Free!》主题曲）,说明,《Free!》官方音乐资料
+danbooru,yami_q_ray,0,Yami_Q_ray（《超时空要塞Δ》虚构乐团）,说明,《超时空要塞Δ》官方作品/音乐资料
+danbooru,ch-53,0,CH-53 重型运输直升机,说明,Sikorsky 官方 CH-53 产品资料
+danbooru,alpha_castor,0,Alpha Castor（团体/组合专名，原名保留）,说明,标签原名；缺少无歧义中文对应，保留原名及组合类别
+danbooru,bfg_9000,0,BFG 9000（《毁灭战士》系列中的虚构武器）,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,toy_house,0,Toy House（品牌/作品专名）,说明,原名保留；仅可确认专名形式
+danbooru,chipped_axe,0,缺口斧/崩刃斧,说明,英语词组直译，物品类别为斧
+danbooru,kac_sr-15,0,KAC SR-15 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,arx-160,0,Beretta ARX160 突击步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,splash!!!!_(love_live!),0,SPLASH!!!!（《Love Live!》系列组合名）,说明,Love Live! 官方音乐/活动资料
+danbooru,sparky_(arms),0,Sparky（《ARMS》角色）,说明,Nintendo 官方《ARMS》角色资料
+danbooru,neo_geo_pocket_color,0,Neo Geo Pocket Color 掌上游戏机,说明,SNK 官方 Neo Geo Pocket Color 产品档案
+danbooru,wonderswan,0,WonderSwan 掌上游戏机,说明,Bandai 官方 WonderSwan 产品档案
+danbooru,ak-103,0,AK-103 突击步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,music_man_stingray,0,Music Man StingRay 电贝斯,说明,Ernie Ball Music Man 官方 StingRay 产品资料
+danbooru,chadcast_(hololive),0,Chadcast（hololive 节目/播客名）,说明,hololive 官方节目标签；保留专名并说明类别
+danbooru,mad_trigger_crew,0,MAD TRIGGER CREW（《催眠麦克风》组合）,说明,《催眠麦克风》官方角色/组合资料
+danbooru,auto-9,0,Auto-9（《机械战警》中的虚构手枪）,说明,《机械战警》系列作品设定；名称对应虚构武器
+danbooru,morfonica_(bang_dream!),0,Morfonica（《BanG Dream!》乐团）,说明,BanG Dream! 官方乐团介绍
+danbooru,tsukumizu_(style),0,つくみず（画风）,说明,本地 ame-artist 画师名 tsukumizu 精确匹配，_(style) 表示画风
+danbooru,apple_watch,0,Apple Watch 智能手表,说明,Apple 官方 Apple Watch 产品页
+danbooru,berserker_(fate/zero)_(cosplay),0,berserker_(fate/zero)（关联标签：Fate/Zero）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 berserker_(fate/zero)；标签后缀 _(cosplay) 表示角色扮装
+danbooru,lr-300,0,LR-300 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,phase_origins,0,Phase Origins（游戏/作品名）,说明,原作品名保留；作品类别按标签语境
+danbooru,microsoft_excel,0,Microsoft Excel 电子表格软件,说明,Microsoft 官方 Excel 产品页
+danbooru,tec-9,0,TEC-9 半自动手枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,xsoleil,0,XSOLEIL（NIJISANJI EN 虚拟主播组合）,说明,NIJISANJI 官方 XSOLEIL 组合资料
+danbooru,saber_wars_ii,0,《Saber Wars II》,说明,Fate/Grand Order 官方活动标题
+danbooru,pyoitto_hallelujah!,0,Pyoitto Hallelujah!（歌曲/作品标题）,说明,标签原名保留；作为作品标题处理
+danbooru,iphone_17_pro,0,Apple iPhone 17 Pro 智能手机,说明,Apple 官方 iPhone 17 Pro 产品页
+danbooru,anesidora_(rwby),0,Anesidora（《RWBY》角色/作品限定标签）,说明,RWBY 官方角色/作品资料；保留原名并标注作品
+danbooru,h&k_g36k,0,Heckler & Koch G36K 突击步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,fujita_mariko_(style),0,Fujita Mariko 画风,说明,Danbooru 画师标签限定；原名保留为画师名
+danbooru,ampeg,0,Ampeg 乐器音箱品牌,说明,Ampeg 官方品牌资料
+danbooru,kac-pdw,0,KAC PDW 原型枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,mas-38,0,MAS-38 冲锋枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,iris_black_games,0,Iris Black Games（游戏公司/品牌名）,说明,公司名按原文保留；类别为游戏品牌
+danbooru,okfams_(group),0,OKFAMS（团体名）,说明,标签括注明确标示 group；专名保留原文
+danbooru,a&w,0,A&W 餐饮连锁品牌,说明,A&W 官方品牌介绍
+danbooru,phase_invaders,0,Phase Invaders（作品/游戏名）,说明,标签原名保留；作为作品名处理
+danbooru,dsr-1,0,DSR-1 栓动狙击步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,msx,0,MSX 家用计算机标准,说明,MSX 官方历史资料
+danbooru,13844,0,13844（数字标签）,说明,原数字标签无可靠消歧信息，保留原文
+danbooru,met_gala,0,Met Gala（大都会艺术博物馆慈善晚宴）,说明,The Met 官方活动介绍
+danbooru,ikizulive!_1st_live_~what_is_my_l?~,0,Ikizulive! 1st Live “What Is My L?”（演出标题）,说明,标签原始演出标题保留；作品/活动标题类型
+danbooru,bose,0,Bose 音响与消费电子品牌,说明,Bose 官方品牌资料
+danbooru,thinkpad,0,ThinkPad 笔记本电脑系列,说明,Lenovo 官方 ThinkPad 产品系列资料
+danbooru,mars_(ado),0,MARS（Ado 演唱会/作品名）,说明,Ado 官方演出/发行资料
+danbooru,9:2_(e.g.o),0,9:2（E.G.O. 作品/组合限定标签）,说明,原名保留，括注限定词按原标签写明
+danbooru,apple_pencil,0,Apple Pencil 触控笔,说明,Apple 官方 Apple Pencil 产品页
+danbooru,sako_m23,0,Sako M23 栓动步枪,说明,Sako 官方 M23 产品资料
+danbooru,ani_(xai)_(cosplay),0,ani_(xai)（关联标签：original (xai)）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 ani_(xai)；标签后缀 _(cosplay) 表示角色扮装
+danbooru,u=ma2,0,U=MA2（作品/曲目专名）,说明,保留标签中的专名原文；不作音译
+danbooru,u.s.a._(da_pump),0,U.S.A.（DA PUMP 歌曲）,说明,DA PUMP / 日本唱片公司官方发行资料
+danbooru,trigger_(idolish7),0,TRIGGER（《IDOLiSH7》组合）,说明,IDOLiSH7 官方组合资料
+danbooru,air_jordan_4,0,Air Jordan 4 篮球鞋,说明,Nike 官方 Air Jordan 4 产品资料
+danbooru,maz-537,0,MAZ-537 重型军用牵引车,说明,明斯克汽车厂 MAZ-537 历史车型资料
+danbooru,stellamaris,0,Stella Maris（《Re:Stage!》组合）,说明,《Re:Stage!》官方角色资料
+danbooru,iphone_11,0,Apple iPhone 11 智能手机,说明,Apple 官方 iPhone 11 产品页
+danbooru,nxde_(i-dle),0,NXDE（(G)I-DLE 歌曲）,说明,Cube Entertainment 官方发行资料
+danbooru,cocoro_magical,0,Cocoro Magical（歌曲/作品名）,说明,标签专名原文保留；作品标题类别
+danbooru,mule,0,Mule（骡）,说明,英语常用名；动物类别
+danbooru,iphone_12_pro,0,Apple iPhone 12 Pro 智能手机,说明,Apple 官方 iPhone 12 Pro 产品页
+danbooru,comicstudio,0,ComicStudio 漫画制作软件,说明,CELSYS 官方软件档案：ComicStudio
+danbooru,funbuns,0,Funbuns（专名，原名保留）,说明,名称无可靠中文对应，保留原名
+danbooru,game_boy_micro,0,Game Boy Micro 掌上游戏机,说明,Nintendo 官方 Game Boy 产品资料
+danbooru,millsage_(bang_dream!),0,Millsage（《BanG Dream!》组合/活动名）,说明,BanG Dream! 官方作品目录
+danbooru,h&k_hk45,0,Heckler & Koch HK45 半自动手枪,说明,Heckler & Koch 官方 HK45 产品资料
+danbooru,corin_wickes_(cosplay),0,corin_wickes（关联标签：绝区零）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 corin_wickes；标签后缀 _(cosplay) 表示角色扮装
+danbooru,trinityaile_(idoly_pride),0,三位一体Aile（《IDOLY PRIDE》组合）,说明,IDOLY PRIDE 官方组合资料
+danbooru,ibn5100,0,IBM 5100 便携式计算机,说明,IBM 官方历史档案：IBM 5100
+danbooru,vampy_(cosplay),0,vampy（关联标签：神击的巴哈姆特）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 vampy；标签后缀 _(cosplay) 表示角色扮装
+danbooru,rightony_&_leftania,0,Rightony & Leftania（角色/组合专名）,说明,保留原始专名；标签为专名组合
+danbooru,post_haste_(stella_sora),0,Post Haste（《星塔旅人》作品/歌曲名）,说明,《Stella Sora》官方作品目录
+danbooru,girls_(aespa),0,Girls（aespa 单曲/作品名）,说明,SM Entertainment 官方 aespa 发行资料
+danbooru,vf-25_(cosplay),0,vf-25（关联标签：超时空要塞）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 vf-25；标签后缀 _(cosplay) 表示角色扮装
+danbooru,zeztz_exdream_driver,0,ZEZTZ Ex-Dream Driver（特摄作品/变身道具名）,说明,标签原名保留；专名类别说明
+danbooru,smlie,0,Smlie（专名，原名保留）,说明,原标签拼写保留；无可靠中文对应
+danbooru,mac_os,0,苹果 Mac OS 操作系统,说明,Apple 官方 Mac 操作系统资料
+danbooru,air_jordan_6,0,Air Jordan 6 篮球鞋,说明,Nike 官方 Air Jordan 6 产品资料
+danbooru,gavarion_trigger,0,Gavarion Trigger（专名/作品标签）,说明,保留原名；无可靠中文对应
+danbooru,tim_hortons,0,Tim Hortons 咖啡与餐饮连锁品牌,说明,Tim Hortons 官方品牌资料
+danbooru,sig_sg553r,0,SIG SG 553R 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,archouchou,0,Archouchou（专名，原名保留）,说明,无可靠中文对应，保留原名
+danbooru,cure_wink_(cosplay),0,Cure Wink（角色扮装）,说明,本地 type=4 角色名精确匹配；已由本地角色源处理
+danbooru,nyx_(eve_online),0,Nyx（《EVE Online》泰坦级飞船）,说明,EVE Online 官方舰船资料
+danbooru,dsa_sa58_osw,0,DSA SA58 OSW 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,telegram_id,0,Telegram 用户 ID,说明,Telegram 官方账号标识类别说明
+danbooru,plumina_(love_live!),0,Plumina（《Love Live! Superstar!!》组合）,说明,Love Live! 官方角色/组合资料
+danbooru,sunny_peace_(idoly_pride),0,Sunny Peace（《IDOLY PRIDE》组合）,说明,IDOLY PRIDE 官方组合资料
+danbooru,xt,0,XT（原始标签缩写，含义不明）,说明,无可靠消歧资料，保留缺口
+danbooru,theater_bell_(dankira!!!),0,Theater Bell（《DANKIRA!!!》组合）,说明,DANKIRA!!! 官方角色/组合资料
+danbooru,epiphone_casino,0,Epiphone Casino 电吉他,说明,Epiphone 官方 Casino 产品页
+danbooru,jp_(4chan),0,JP（4chan 标签限定词）,说明,保留缩写 JP；括注限定来源为 4chan
+danbooru,iphone_13,0,Apple iPhone 13 智能手机,说明,Apple 官方 iPhone 13 产品页
+danbooru,ar-9,0,AR-9（9 毫米口径 AR 式枪械）,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,all_i_want_for_christmas_is_you_(mariah_carey),0,All I Want for Christmas Is You（Mariah Carey 歌曲）,说明,Mariah Carey 官方音乐作品资料
+danbooru,gmail,0,Google Gmail 电子邮件服务,说明,Google 官方 Gmail 产品页
+danbooru,funky_dorrie,0,Funky Dorrie（专名，原名保留）,说明,保留原名；现有资料不足以确认具体对象
+danbooru,secret_night_(idolish7),0,SECRET NIGHT（《IDOLiSH7》歌曲）,说明,IDOLiSH7 官方音乐作品目录
+danbooru,trois_anges,0,Trois Anges（《Re:Stage!》组合）,说明,Re:Stage! 官方角色/组合资料
+danbooru,phessian,0,Phessian（专名，原名保留）,说明,无可靠中文对应，保留原名
+danbooru,b&t_apc556,0,B&T APC556 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,olofboost,0,Olofboost（专名，原名保留）,说明,无可靠中文对应，保留原名
+danbooru,radio_eva,0,RADIO EVA（EVA 官方时尚/生活品牌）,说明,RADIO EVA 官方品牌介绍
+danbooru,exdreamrise_capsem,0,Ex-Dreamrise Capsem（专名，原文保留）,说明,原名保留；缺少可靠中文对应
+danbooru,uaz-469,0,UAZ-469 越野车,说明,UAZ 官方车型历史资料：469
+danbooru,chained_together,0,《Chained Together》合作平台游戏,说明,Steam 官方游戏页面标题与类型
+danbooru,love_live!_fan_fun_festival,0,Love Live! Fan Fun Festival（《Love Live!》活动）,说明,Love Live! 官方活动资料
+danbooru,bad_boys_(limited_life_smp),0,Bad Boys（Limited Life SMP 组队名）,说明,Minecraft 社区系列 Limited Life 中的组队标签
+danbooru,ak-102,0,AK-102 突击步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,lvoa-c,0,LVOA-C 半自动步枪,说明,按原型号核对厂商/军械型号资料；仅给出名称与类别
+danbooru,sig_mkms,0,SIG MKMS 冲锋枪,说明,SIG 历史型号资料：MKMS
+danbooru,exgotchalibur,0,Exgotchalibur（专名/作品标签，原文保留）,说明,标签原名保留；缺乏可靠中文对应
+danbooru,game_boy_pocket,0,Game Boy Pocket 掌上游戏机,说明,Nintendo 官方 Game Boy 产品资料
+danbooru,rwb,0,RWB（缩写标签）,说明,缩写原样保留；无可靠消歧信息
+danbooru,air_max_90,0,Nike Air Max 90 运动鞋,说明,Nike 官方 Air Max 90 产品资料
+danbooru,new_era,0,New Era 帽饰品牌,说明,New Era 官方品牌资料
+danbooru,danjo_(tarou),0,Danjo（Tarou 画师/角色标签）,说明,标签限定词 tarou 保留；现有资料未确认中文名
+danbooru,iphone_12,0,Apple iPhone 12 智能手机,说明,Apple 官方 iPhone 12 产品页
+danbooru,miming,0,miming（原标签，含义不明）,说明,现有资料不足以消歧，暂不翻译
+danbooru,feel_my_rhythm_(red_velvet),0,Feel My Rhythm（Red Velvet 单曲）,说明,SM Entertainment 官方 Red Velvet 发行资料
+danbooru,pocketstation,0,PocketStation 掌上游戏机/PlayStation 外设,说明,Sony 官方 PocketStation 产品档案
+gelbooru,super_pochaco_(cosplay),0,super_pochaco（关联标签：Nitroplus）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 super_pochaco；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,cattleya_(queen's_blade)_(cosplay),0,cattleya_(queen's_blade)（关联标签：女王之刃）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 cattleya_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,miss_spencer_(cosplay),0,斯宾塞小姐（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 miss_spencer；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,captain_liliana_(cosplay),0,captain_liliana（关联标签：女王之刃 叛乱）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 captain_liliana；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,diane_(nanatsu_no_taizai)_(cosplay),0,diane_(nanatsu_no_taizai)（关联标签：七大罪）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 diane_(nanatsu_no_taizai)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sazaki_kaoruko_(cosplay),0,sazaki_kaoruko（关联标签：高达创战者TRY）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sazaki_kaoruko；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,candy_cane_(rumble_roses)_(cosplay),0,candy_cane_(rumble_roses)（关联标签：摔角玫瑰）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 candy_cane_(rumble_roses)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,zara_(queen's_blade)_(cosplay),0,zara_(queen's_blade)（关联标签：女王之刃 魔导书）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 zara_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,branwen_(queen's_blade)_(cosplay),0,branwen_(queen's_blade)（关联标签：女王之刃 叛乱）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 branwen_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sigui_(queen's_blade)_(cosplay),0,sigui_(queen's_blade)（关联标签：女王之刃 叛乱）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sigui_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,shiraki_meiko_(cosplay),0,shiraki_meiko（关联标签：监狱学园）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 shiraki_meiko；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,higashimitarai_kiyoshiro_(cosplay),0,东御手洗清司郎（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 higashimitarai_kiyoshiro；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,amanokawa_hiro_(cosplay),0,天之河宙（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 amanokawa_hiro；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,tsukiyono_ruli_(cosplay),0,月夜野瑠璃（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 tsukiyono_ruli；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,tomoe_(queen's_blade)_(cosplay),0,tomoe_(queen's_blade)（关联标签：女王之刃）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 tomoe_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,super_taruco_(cosplay),0,super_taruco（关联标签：Nitroplus）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 super_taruco；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,melona_(queen's_blade)_(cosplay),0,melona_(queen's_blade)（关联标签：女王之刃）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 melona_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,kisaragi_(criminal_girls)_(cosplay),0,kisaragi_(criminal_girls)（关联标签：犯罪少女）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 kisaragi_(criminal_girls)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sasaki_chiho_(cosplay),0,sasaki_chiho（关联标签：打工吧！魔王大人）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sasaki_chiho；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,miyu_edelfelt_(cosplay),0,miyu_edelfelt（关联标签：Fate/kaleid liner 魔法少女☆伊莉雅）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 miyu_edelfelt；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,shizuka_(queen's_blade)_(cosplay),0,shizuka_(queen's_blade)（关联标签：女王之刃）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 shizuka_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,manyuu_chifusa_(cosplay),0,manyuu_chifusa（关联标签：魔乳秘剑帖）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 manyuu_chifusa；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,takara_miyuki_(cosplay),0,takara_miyuki（关联标签：幸运星）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 takara_miyuki；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,oerba_dia_vanille_(cosplay),0,oerba_dia_vanille（关联标签：最终幻想13）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 oerba_dia_vanille；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,huttslayer_leia_(cosplay),0,huttslayer_leia（关联标签：星球大战）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 huttslayer_leia；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sawatari_izumi_(cosplay),0,sawatari_izumi（关联标签：我的主人爱作怪）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sawatari_izumi；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,hiiragi_utena_(cosplay),0,hiiragi_utena（关联标签：憧憬成为魔法少女）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 hiiragi_utena；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,nelliel_tu_odelschwanck_(cosplay),0,nelliel_tu_odelschwanck（关联标签：死神）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 nelliel_tu_odelschwanck；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,inutade_(cosplay),0,inutade（关联标签：迷宫饭）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 inutade；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,chloe_von_einzbern_(cosplay),0,chloe_von_einzbern（关联标签：Fate/kaleid liner 魔法少女☆伊莉雅）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 chloe_von_einzbern；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,ashido_mina_(cosplay),0,ashido_mina（关联标签：我的英雄学院）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 ashido_mina；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,nagatoro_hayase_(cosplay),0,nagatoro_hayase（关联标签：不要欺负我，长瀞同学）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 nagatoro_hayase；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,renamon_(cosplay),0,renamon（关联标签：数码宝贝）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 renamon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,bb-28_(cosplay),0,BB-28（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 bb-28；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,lilithmon_(cosplay),0,lilithmon（关联标签：数码宝贝）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 lilithmon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,haruka_(senran_kagura)_(cosplay),0,haruka_(senran_kagura)（关联标签：闪乱神乐）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 haruka_(senran_kagura)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,kajou_ayame_(cosplay),0,kajou_ayame（关联标签：没有黄段子的无聊世界）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 kajou_ayame；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,st._louis_(luxurious_wheels)_(azur_lane)_(cosplay),0,st._louis_(luxurious_wheels)_(azur_lane)（关联标签：碧蓝航线）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 st._louis_(luxurious_wheels)_(azur_lane)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,medea_(fate)_(cosplay),0,medea_(fate)（关联标签：Fate系列）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 medea_(fate)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,aiba_ami_(cosplay),0,相羽爱美（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 aiba_ami；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,misaka_shiori_(cosplay),0,misaka_shiori（关联标签：Kanon）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 misaka_shiori；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,santa_claus_(cosplay),0,圣诞老人（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 santa_claus；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,lenalee_lee_(cosplay),0,lenalee_lee（关联标签：驱魔少年）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 lenalee_lee；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,himeno_(chainsaw_man)_(cosplay),0,himeno_(chainsaw_man)（关联标签：电锯人）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 himeno_(chainsaw_man)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,mavis_dracula_(cosplay),0,mavis_dracula（关联标签：精灵旅社）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 mavis_dracula；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,le_malin_(listless_lapin)_(azur_lane)_(cosplay),0,le_malin_(listless_lapin)_(azur_lane)（关联标签：碧蓝航线）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 le_malin_(listless_lapin)_(azur_lane)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,utsushimi_camie_(cosplay),0,现见凯米（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 utsushimi_camie；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,akashiya_moka_(cosplay),0,akashiya_moka（关联标签：十字架与吸血鬼）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 akashiya_moka；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,alicia_(queen's_blade)_(cosplay),0,alicia_(queen's_blade)（关联标签：女王之刃 魔导书）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 alicia_(queen's_blade)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,alois_trancy_(cosplay),0,alois_trancy（关联标签：黑执事）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 alois_trancy；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,triss_merigold_(cosplay),0,特莉丝·梅莉葛德（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 triss_merigold；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,lucy_heartfilia_(cosplay),0,lucy_heartfilia（关联标签：妖精的尾巴）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 lucy_heartfilia；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,tsukumizu_(style),0,つくみず（画风）,说明,本地 ame-artist 画师名 tsukumizu 精确匹配，_(style) 表示画风
+gelbooru,shirley_fenette_(cosplay),0,shirley_fenette（关联标签：叛逆的鲁路修）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 shirley_fenette；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,frederica_sawyer_(cosplay),0,frederica_sawyer（关联标签：黑礁）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 frederica_sawyer；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,karin_(naruto)_(cosplay),0,karin_(naruto)（关联标签：火影忍者（系列））（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 karin_(naruto)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,konohana_hikari_(cosplay),0,konohana_hikari（关联标签：惊爆草莓）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 konohana_hikari；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,so_dakki_(cosplay),0,so_dakki（关联标签：封神演义）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 so_dakki；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,rosemon_(cosplay),0,蔷薇兽（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 rosemon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,pokemoa_(style),0,ポケモア（画风）,说明,本地 ame-artist 画师名 pokemoa 精确匹配，_(style) 表示画风
+gelbooru,erstin_ho_(cosplay),0,爱尔丝汀·霍（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 erstin_ho；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,piyomon_(cosplay),0,比丘兽（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 piyomon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,red_sonja_(cosplay),0,红发索妮娅（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 red_sonja；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,medusa_gorgon_(cosplay),0,medusa_gorgon（关联标签：噬魂师）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 medusa_gorgon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,harpie_lady_(cosplay),0,harpie_lady（关联标签：游戏王）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 harpie_lady；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,lilimon_(cosplay),0,花仙兽（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 lilimon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,cernunnos_(fate)_(cosplay),0,cernunnos_(fate)（关联标签：命运-冠位指定）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 cernunnos_(fate)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,selvaria_bles_(cosplay),0,selvaria_bles（关联标签：战场女武神）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 selvaria_bles；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,palmon_(cosplay),0,巴鲁兽（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 palmon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sailor_v_(cosplay),0,sailor_v（关联标签：代号是水兵V）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sailor_v；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,ayase_seiko_(cosplay),0,ayase_seiko（关联标签：胆大党）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 ayase_seiko；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,rockruff_(cosplay),0,岩狗狗（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 rockruff；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,inui_sajuna_(cosplay),0,inui_sajuna（关联标签：更衣人偶坠入爱河）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 inui_sajuna；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,beargguy_iii_(cosplay),0,熊霸III（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 beargguy_iii；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,aizawa_tomo_(cosplay),0,aizawa_tomo（关联标签：小智是女孩子啦！）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 aizawa_tomo；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,blacktailmon_(cosplay),0,黑迪路兽（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 blacktailmon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,vegapunk_york_(cosplay),0,vegapunk_york（关联标签：航海王）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 vegapunk_york；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,aino_minako_(cosplay),0,aino_minako（关联标签：美少女战士）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 aino_minako；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,asuna_(bunny)_(blue_archive)_(cosplay),0,asuna_(bunny)_(blue_archive)（关联标签：蔚蓝档案）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 asuna_(bunny)_(blue_archive)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sakasagami_no_yura_(cosplay),0,sakasagami_no_yura（关联标签：犬夜叉）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sakasagami_no_yura；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,daki_(kimetsu_no_yaiba)_(cosplay),0,daki_(kimetsu_no_yaiba)（关联标签：鬼灭之刃）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 daki_(kimetsu_no_yaiba)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,archnemon_(cosplay),0,archnemon（关联标签：数码宝贝大冒险02）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 archnemon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,ani_(xai)_(cosplay),0,ani_(xai)（关联标签：original (xai)）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 ani_(xai)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,nyotengu_(cosplay),0,nyotengu（关联标签：死或生5）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 nyotengu；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,berserker_(fate/zero)_(cosplay),0,berserker_(fate/zero)（关联标签：Fate/Zero）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 berserker_(fate/zero)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sawatari_mitsuki_(cosplay),0,sawatari_mitsuki（关联标签：我的主人爱作怪）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sawatari_mitsuki；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,aiba_takumi_(cosplay),0,相羽拓海（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 aiba_takumi；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,vampy_(cosplay),0,vampy（关联标签：神击的巴哈姆特）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 vampy；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,kinako_(40hara)_(cosplay),0,kinako_(40hara)（关联标签：original (40hara)）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 kinako_(40hara)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,rebecca_(one_piece)_(cosplay),0,rebecca_(one_piece)（关联标签：航海王）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 rebecca_(one_piece)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,nakano_ichika_(cosplay),0,nakano_ichika（关联标签：五等分的新娘）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 nakano_ichika；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,blue_snow_(cosplay),0,blue_snow（关联标签：没有黄段子的无聊世界）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 blue_snow；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,kashiwazaki_sena_(cosplay),0,kashiwazaki_sena（关联标签：我的朋友很少）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 kashiwazaki_sena；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,shauntal_(pokemon)_(cosplay),0,shauntal_(pokemon)（关联标签：宝可梦）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 shauntal_(pokemon)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,hassan_of_the_cursed_arm_(fate)_(cosplay),0,hassan_of_the_cursed_arm_(fate)（关联标签：Fate系列）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 hassan_of_the_cursed_arm_(fate)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,ayane_(doa)_(cosplay),0,ayane_(doa)（关联标签：死或生）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 ayane_(doa)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,patricia_wagon_(cosplay),0,patricia_wagon（关联标签：wayforward）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 patricia_wagon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,elegg_(boom_and_shock)_(nikke)_(cosplay),0,elegg_(boom_and_shock)_(nikke)（关联标签：胜利女神：妮姬）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 elegg_(boom_and_shock)_(nikke)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,cerebella_(skullgirls)_(cosplay),0,cerebella_(skullgirls)（关联标签：骷髅女孩）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 cerebella_(skullgirls)；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,vamdemon_(cosplay),0,vamdemon（关联标签：数码宝贝）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 vamdemon；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,manon_legrand_(cosplay),0,manon_legrand（关联标签：街头霸王）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 manon_legrand；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,lola_bunny_(cosplay),0,罗拉·邦尼（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 lola_bunny；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,chibi_usa_(cosplay),0,chibi_usa（关联标签：美少女战士）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 chibi_usa；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,ishida_yamato_(cosplay),0,ishida_yamato（关联标签：数码宝贝大冒险）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 ishida_yamato；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,takaishi_takeru_(cosplay),0,takaishi_takeru（关联标签：数码宝贝大冒险）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 takaishi_takeru；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,ema_skye_(cosplay),0,ema_skye（关联标签：逆转裁判（初代））（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 ema_skye；标签后缀 _(cosplay) 表示角色扮装
+gelbooru,sasha_blouse_(cosplay),0,sasha_blouse（关联标签：进击的巨人）（角色扮装）,说明,本地 type=4 角色译名精确匹配基名 sasha_blouse；标签后缀 _(cosplay) 表示角色扮装

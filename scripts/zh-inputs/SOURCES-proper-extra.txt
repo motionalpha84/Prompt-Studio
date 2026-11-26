@@ -1,0 +1,11 @@
+StoryAura Danbooru-Dataset-csv (MIT)
+Snapshot revision observed: 53cb576 (Hugging Face dataset repo; README says verified)
+Files used:
+- danbooru_artist_tags.csv
+- danbooru_character_tags_corrected.csv
+Source card: https://huggingface.co/datasets/StoryAura/Danbooru-Dataset-csv
+The dataset card identifies MIT licensing for its curated tables and says underlying tag/wiki metadata is from Danbooru. CSVs contain no images.
+
+proper-extra.csv is a derived, narrow match against the bundled resources/danbooru.csv and resources/gelbooru.csv. It preserves the local English tag and local numeric category (1 artist, 4 character); rows are included only on exact tag match (underscores normalized from StoryAura's character names). No category 3 work entries were emitted: this dataset's character table only provides copyright links, not Chinese work translations, and its README says a copyright table is still forthcoming. Artist table yielded no demonstrably Chinese translated values under the conservative filter.
+
+For character names, the source mixes Chinese/Japanese aliases. To avoid passing through kana-bearing or Japanese-only spellings, this extraction requires a Han-only alias with at least one common Simplified Chinese cue character. This is intentionally conservative and not a linguistic proof; it omits Traditional Chinese translations and may still include ambiguous Han-only forms. Review source values before treating each row as authoritative. The full downloaded source CSVs are retained here for reproducibility.

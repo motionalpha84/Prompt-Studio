@@ -1,0 +1,44 @@
+{
+  "name": "cixu-prompt-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "词序 · 按行组织的本地提示词工作台",
+  "author": "Cixu Studio",
+  "type": "module",
+  "main": "desktop/main.cjs",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "start": "electron .",
+    "test": "node --test test/core.test.mjs test/store.test.mjs",
+    "test:desktop": "node test/desktop.mjs",
+    "test:handoff": "node test/handoff.mjs",
+    "test:portable": "node test/portable.mjs",
+    "prepare:upgrade-sample": "node test/prepare-upgrade-sample.mjs",
+    "resources": "node scripts/resources.mjs",
+    "prepare:desktop": "node scripts/prepare-desktop.mjs",
+    "download:library": "node scripts/download-library.mjs",
+    "pack": "npm run build && node scripts/pack.mjs"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.3",
+    "electron": "44.7.2",
+    "electron-builder": "26.15.3",
+    "lucide-react": "^0.577.0",
+    "playwright": "^1.58.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "vite": "^7.3.1"
+  },
+  "build": {
+    "appId": "studio.cixu.prompt",
+    "productName": "词序",
+    "directories": { "buildResources": "resources" },
+    "files": ["dist/**/*", "desktop/**/*", "core/**/*", "resources/icon.ico", "resources/icon.png", "resources/danbooru.csv", "resources/gelbooru.csv", "resources/zh-danbooru.csv", "resources/zh-gelbooru.csv", "resources/*-LICENSE.txt", "resources/Outfit-OFL.txt", "resources/JetBrainsMono-OFL.txt", "resources/SOURCES.md", "package.json", "使用说明.txt"],
+    "asar": true,
+    "extraResources": [{"from":"node_modules","to":"licenses","filter":["react/LICENSE","react-dom/LICENSE","scheduler/LICENSE","lucide-react/LICENSE"]}],
+    "electronDist": "node_modules/electron/dist",
+    "win": { "target": "portable", "signAndEditExecutable": false, "icon": "resources/icon.ico" },
+    "portable": { "artifactName": "词序-Prompt-Studio-${version}.exe" }
+  }
+}

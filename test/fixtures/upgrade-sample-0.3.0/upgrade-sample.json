@@ -1,0 +1,21 @@
+{
+  "sourceExe": "词序-Prompt-Studio-0.3.0.exe",
+  "dataDir": "data",
+  "sourceVersion": "0.3.0",
+  "fixtures": {
+    "draftTitle": "0.3 用户升级样本",
+    "draftText": "long hair, black hair,\n\nblue eyes, light smile,",
+    "theme": "dark",
+    "customTranslation": "用户自定义长发译名",
+    "customSource": "",
+    "customCategory": "我的分类",
+    "customAlias": [
+      "我的长发别名"
+    ],
+    "customNote": "0.3.0 用户备注",
+    "intentionalBlank": "my_intentional_blank",
+    "favorite": "long_hair",
+    "snippet": "0.3 用户片段",
+    "preset": "0.3 用户方案"
+  }
+}
